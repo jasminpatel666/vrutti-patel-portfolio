@@ -17,3 +17,10 @@
 .gallery img:hover {
     transform: scale(1.03);
 }
+
+body {
+    background-color: #000;
+    color: #fff;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
