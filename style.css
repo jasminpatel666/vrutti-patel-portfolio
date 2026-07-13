@@ -1,1 +1,4 @@
- 
+ background-image: url("images/your-photo.jpg");
+background-size: cover;
+background-position: center top;
+background-repeat: no-repeat;
